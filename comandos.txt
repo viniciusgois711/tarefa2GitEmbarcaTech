@@ -1,0 +1,35 @@
+Lucas Vinícius Teixeira de Góis
+
+Comandos:
+
+git clone https://gitlab.com/mizael.cortez/curso-branchs-ifrn-ead
+
+git branch
+
+git status
+
+git add .
+
+git commit -m "adicionando arquivo texto.txt"
+
+git switch -c feature-1
+
+git add .
+
+git commit -m "alterando arquivo textp.txt"
+
+git switch main
+
+git add .
+
+git commit -m "alterando texto na main"
+
+git merge feature-1
+
+----- deu conflito e alterei na mão
+
+git add .
+
+git commit -m "merge das branchs com confilto"
+
+git switch -c add-comandos
