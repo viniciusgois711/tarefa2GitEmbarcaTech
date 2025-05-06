@@ -42,4 +42,8 @@ git switch main
 
 git remote add origin-atividade https://github.com/viniciusgois711/tarefa2GitEmbarcaTech.git
 
+git push origin-atividade main
+
+git push origin-atividade add-comandos
+
 
