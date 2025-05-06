@@ -33,3 +33,13 @@ git add .
 git commit -m "merge das branchs com confilto"
 
 git switch -c add-comandos
+
+git add .
+
+git commit -m "arquivo add-comandos"
+
+git switch main
+
+git remote add origin-atividade https://github.com/viniciusgois711/tarefa2GitEmbarcaTech.git
+
+
